@@ -7,6 +7,7 @@
 <h3> Qompass AI on MySQL </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-mysql)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/mysql/total?style=flat-square)
   <a href="https://dev.mysql.com/doc/">
   <img src="https://img.shields.io/badge/MySQL_Documentation-blue?style=flat-square" alt="MySQL Documentation">
 </a>
